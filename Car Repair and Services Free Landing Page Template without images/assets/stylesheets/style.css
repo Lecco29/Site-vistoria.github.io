@@ -3198,3 +3198,39 @@ h5 {
         width: 50px;
     }
 }
+
+.theme-repair-services .section-title {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.theme-repair-services .section-title h5 {
+    color: #c5ab77;
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 15px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.1);
+}
+
+.theme-repair-services .section-title h2 {
+    color: #333;
+    font-size: 36px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.1);
+}
+
+.theme-repair-services .contact-subtitle {
+    color: #666;
+    font-size: 16px;
+    line-height: 1.6;
+    margin-top: 15px;
+    font-weight: 400;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
