@@ -1,0 +1,25 @@
+User-agent: *
+Allow: /
+Allow: /assets/
+Allow: /assets/images/
+Allow: /assets/stylesheets/
+Allow: /assets/javascript/
+Allow: /sitemap.xml
+Allow: /image-sitemap.xml
+
+Disallow: /assets/javascript/jquery-3.5.1.min.js
+Disallow: /assets/javascript/bootstrap.min.js
+Disallow: /assets/javascript/plugins.js
+Disallow: /assets/javascript/swiper.min.js
+Disallow: /assets/javascript/wow.min.js
+Disallow: /assets/javascript/main.js
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /private/
+
+# Sitemaps
+Sitemap: https://qualitecvistoria.com.br/sitemap.xml
+Sitemap: https://qualitecvistoria.com.br/image-sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 10 

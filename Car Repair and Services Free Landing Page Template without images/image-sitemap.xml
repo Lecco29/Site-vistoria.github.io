@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    <url>
+        <loc>https://qualitecvistoria.com.br/</loc>
+        <image:image>
+            <image:loc>https://qualitecvistoria.com.br/assets/images/logo.png</image:loc>
+            <image:title>Logo Qualitec Vistoria Veicular</image:title>
+            <image:caption>Logo oficial da Qualitec Vistoria Veicular</image:caption>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://qualitecvistoria.com.br/#services</loc>
+        <image:image>
+            <image:loc>https://qualitecvistoria.com.br/assets/images/f1 (1).jpg</image:loc>
+            <image:title>Nossa Estrutura - Qualitec Vistoria</image:title>
+            <image:caption>Estrutura moderna e equipamentos de última geração</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://qualitecvistoria.com.br/assets/images/f1 (2).jpg</image:loc>
+            <image:title>Nossos Serviços - Qualitec Vistoria</image:title>
+            <image:caption>Atendimento personalizado e eficiente</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://qualitecvistoria.com.br/assets/images/f1 (3).jpg</image:loc>
+            <image:title>Nossa Equipe - Qualitec Vistoria</image:title>
+            <image:caption>Profissionais capacitados e dedicados</image:caption>
+        </image:image>
+    </url>
+</urlset> 
